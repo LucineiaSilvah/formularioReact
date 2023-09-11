@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import FormularioCadastro from './components/FormularioCadastro/FormularioCadastro';
 import { Container , Typography } from '@mui/material';
-import 'fontsource-roboto'
+
 
 // componente utilizando class component
 class App extends Component{
