@@ -9,7 +9,8 @@ class App extends Component{
   render(){
     return (
       
-        <Container className='container'
+        <Container 
+        className='container'
         component='article'
         maxWidth="sm">
         <Typography 
